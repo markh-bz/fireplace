@@ -1,0 +1,21 @@
+{
+    "description": "Carrier Info",
+    "developer": {
+        "name": "Mozilla",
+        "url": "http://mozilla.org"
+    },
+    "icons": {
+        "128": "https://marketplace-dev-cdn.allizom.org/media/img/mkt/logos/128.png?b=f650ee2"
+    },
+    "launch_path": "/index.html",
+    "name": "Carrier Info",
+    "orientation": ["portrait-primary"],
+    "permissions": {
+        "mobileconnection": {"description": "To detect mobile connection information."}
+    },
+    "type": "privileged",
+    "version": "0.0.2",
+    "messages": [
+        {"mobileconnection": "/index.html"}
+    ]
+}
