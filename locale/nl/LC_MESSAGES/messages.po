@@ -336,7 +336,7 @@ msgstr "Premiumversie beschikbaar"
 
 #: /templates/detail/main.html:204
 msgid "Content Rating"
-msgstr ""
+msgstr "Inhoudswaardering"
 
 #: /templates/_macros/more_button.html:2
 msgid "More"
